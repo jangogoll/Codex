@@ -1,10 +1,7 @@
 ## Welcome to Code_Ex, the coolest company of all time!
 
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Let's see if it works...
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
